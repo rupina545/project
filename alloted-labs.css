@@ -1,0 +1,180 @@
+body{
+	background-color: #1224b3;
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+table{
+	background-color: #fffcfc;
+	width: 800px;
+	border: 2px solid  #fffcfc;
+	border-radius: 18px;
+}
+th{
+	font-size: 30px;
+	text-align: center;
+}
+td{
+	font-size: 20px;
+	text-align: center;
+}
+#back-icon{
+	color: white;
+	margin-left: 1200px;
+	margin-top: 10px;
+	font-size: 40px;
+}
+.add-lab-button{
+	margin-left: 180px;
+	height: 70px;
+	width: 140px;
+	border: 2px solid black;
+	border-radius: 18px;
+	font-size: 20px;
+	font-weight: bold;
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+.text1{
+	text-align: center;
+	font-size: 50px;
+	color: white;
+	text-decoration: underline;
+}
+.popup {
+				  margin: 130px auto;
+				  padding: 20px;
+				  background: #f4ebf5;
+				  border-radius: 18px;
+				  width: 25%;
+				  height: 460px;
+				  position: relative;
+				  transition: all 5s ease-in-out;
+				}
+			.popup h2 {
+				  margin-top: 0;
+				  color: #333;
+				  font-family: Tahoma, Arial, sans-serif;
+				}
+				.popup .close {
+				  position: absolute;
+				  top: 20px;
+				  right: 30px;
+				  transition: all 200ms;
+				  font-size: 30px;
+				  font-weight: bold;
+				  text-decoration: none;
+				  color: #333;
+				}
+				.overlay {
+				  position: fixed;
+				  top: 0;
+				  bottom: 0;
+				  left: 0;
+				  right: 0;
+				  background: rgba(0, 0, 0, 0.7);
+				  transition: opacity 500ms;
+				  visibility: hidden;
+				  opacity: 0;
+				}
+				.overlay:target {
+				  visibility: visible;
+				  opacity: 1;
+				}
+				.popup .close:hover {
+				  color: #06D85F;
+				}
+				.popup .content {
+				  max-height: 30%;
+				  overflow: auto;
+				}
+				@media screen and (max-width: 700px){
+				  .box{
+				    width: 70%;
+				  }
+				  .popup{
+				    width: 70%;
+				  }
+				  }
+				  .div-field-1{
+					text-align: center;
+					border: 2px solid black;
+					border-radius: 18px;
+					width: 180px;
+					height: 40px;
+					outline: none;
+					text-align: center;
+					}
+					.field1{
+					width: 180px;
+					border: 2px solid black;
+					border-radius: 18px;
+					height: 30px;
+					text-align: center;
+					color: black;
+					font-size: 15px;
+					text-align: center;
+					outline: none;
+					}
+					.submit-button{
+					margin-top: 20px;
+					height: 45px;
+					width: 100px;
+					border: 4px solid black;
+					border-radius: 18px;
+					font-family: "Comic Sans MS", "Comic Sans", cursive;
+					font-size: 20px;
+					font-weight: bold;
+						}
+						.success_msg{
+					color: green;
+					font-size: 20px;
+					text-align: center
+					}
+					.error_msg{
+					color: red;
+					font-size: 20px;
+					text-align: center;
+					}
+					h1{
+						text-decoration: underline;
+					}
+					label{
+					font-size: 20px;
+					font-weight: bold;
+					color: black;
+					}
+					i{
+						color: blue;
+					}
+					a{
+						color: red;
+					}
+					.input-field2{
+						border: 2px solid black;
+						border-radius: 18px;
+						width: 170px;
+						height: 30px;
+						outline: none;
+						text-align: center;
+						}
+						label{
+							font-size: 25px;
+						}
+						.input-field3{
+							border: 2px solid black;
+							border-radius: 18px;
+							height: 40px;
+							width: 100px;
+							font-size: 20px;
+							font-weight: bold;
+							outline: none;
+							text-align: center;
+						}
+						.allocate-1{
+							text-decoration: underline;
+						}
+						.success_msg{
+							color: green;
+							font-size: 20px;
+						}
+						.error-msg{
+							color: red;
+						}

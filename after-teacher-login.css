@@ -1,0 +1,300 @@
+body{
+ 
+  background-color: #1224b3;
+}
+.horizontal-line{
+  width: 940px;
+  background-color: black;
+  height: 20px;
+  margin-left:200px;
+  margin-top: 20px;
+  border: 2px;
+  border-radius : 40px;
+}
+.vertical-line1{
+  height: 330px;
+  width: 15px;
+  background-color: black;
+  border: 2px;
+  border-radius: 40px;
+  margin-left: 70px;
+}
+.vertical-line2{
+  height: 230px;
+  width: 15px;
+  background-color: black;
+  border: 2px;
+  border-radius: 40px;
+  margin-left: 160px;
+}
+.circle1{
+  height: 150px;
+  width: 170px;
+  border: 2px;
+  border-radius: 50%;
+  background-color: #2bc262;
+}
+.circle2{
+  height: 150px;
+  width: 170px;
+  border: 2px;
+  border-radius: 50%;
+  background-color: #229ac9;
+  margin-left: 90px;
+}
+.circle3{
+  height: 150px;
+  width: 170px;
+  border: 2px;
+  border-radius: 50%;
+  background-color: #d13fcc;
+  margin-left: 90px;
+}
+.vertical-line3{
+  height: 330px;
+  width: 15px;
+  background-color: black;
+  border: 2px;
+  border-radius: 40px;
+  margin-left: 160px;
+}
+.circle4{
+  height: 150px;
+  width: 170px;
+  border: 2px;
+  border-radius: 50%;
+  background-color: #d2db4f;
+  margin-left: 90px;
+}
+.circle5{
+  height: 150px;
+  width: 170px;
+  border: 2px;
+  border-radius: 50%;
+  background-color: #d4395d;
+  margin-left: 90px;
+}
+.circle6{
+  height: 150px;
+  width: 170px;
+  border: 2px;
+  border-radius: 50%;
+  background-color: #cf582d;
+  margin-left: 90px;
+}
+.button1{
+  margin-left: 20px;
+  font-size: 50px;
+}
+.button6{
+  margin-left: 25px;
+  font-size: 50px;
+}
+a{
+  text-decoration: none;  
+  color: inherit;
+}
+.button2{
+  margin-left: 15px;
+  font-size: 50px;
+}
+.button3{
+  margin-left: 30px;
+  font-size: 50px;
+}
+.button4{
+  margin-left: 35px;
+  font-size: 50px;
+}
+.button5{
+  margin-left: 40px;
+  font-size: 50px;
+}
+#user_welcome{
+  margin-left: 350px;
+  font-size: 50px;
+  text-transform: uppercase;
+    color: white;
+    font-family: 'Righteous', serif;
+  font-size: 4em; 
+  text-shadow: .03em .03em 0 hsla(230,20%,20%,1);
+}
+.welcome{
+  
+    color: black;
+    }
+
+
+.popup {
+  margin: 70px auto;
+  padding: 20px;
+  background: #f4ebf5;
+  border-radius: 18px;
+  width: 27%;
+  height: 420px;
+  position: relative;
+  transition: all 5s ease-in-out;
+}
+
+.popup h2 {
+  margin-top: 0;
+  color: #333;
+  font-family: Tahoma, Arial, sans-serif;
+}
+.popup .close {
+  position: absolute;
+  top: 20px;
+  right: 30px;
+  transition: all 200ms;
+  font-size: 30px;
+  font-weight: bold;
+  text-decoration: none;
+  color: #333;
+}
+.overlay {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.7);
+  transition: opacity 500ms;
+  visibility: hidden;
+  opacity: 0;
+}
+.overlay:target {
+  visibility: visible;
+  opacity: 1;
+}
+.popup .close:hover {
+  color: #06D85F;
+}
+.popup .content {
+  max-height: 30%;
+  overflow: auto;
+}
+@media screen and (max-width: 700px){
+  .box{
+    width: 70%;
+  }
+  .popup{
+    width: 70%;
+  }
+ }
+.update-message{
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+}
+i{
+  font-size: 20px;
+  margin-left: 30px;
+  margin-top: 30px;
+}
+.input1{
+  margin-left: 30px;
+  height: 20px;
+  border: 2px solid black;
+  border-radius: 18px;
+  text-align: center;
+  font-size: 15px;
+  width: 190px;
+}
+.input2{
+  margin-left: 22px;
+  height: 20px;
+  border: 2px solid black;
+  border-radius: 18px;
+  text-align: center;
+  font-size: 15px;
+  width: 190px;
+}
+.input3{
+  margin-left: 15px;
+  height: 20px;
+  border: 2px solid black;
+  border-radius: 18px;
+  text-align: center;
+  font-size: 15px;
+  width: 190px;
+}
+.input4{
+  margin-left: 20px;
+  height: 20px;
+  border: 2px solid black;
+  border-radius: 18px;
+  text-align: center;
+  font-size: 15px;
+  width: 190px;
+}
+.input5{
+  margin-left: 12px;
+  height: 20px;
+  border: 2px solid black;
+  border-radius: 18px;
+  text-align: center;
+  font-size: 15px;
+  width: 190px;
+}
+.submit-button{
+  text-align: center;
+  height: 40px;
+  width: 100px;
+  border: 2px solid black;
+  border-radius: 18px;
+  font-size: 20px;
+  font-weight: bold;
+}
+.submit_button{
+  text-align: center;
+  margin-top: 10px;
+}
+.msg1{
+  color: green;
+  font-size: 20px;
+}
+.msg2{
+  color: red;
+  font-size: 20px;
+}
+
+
+
+
+ .modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: red;
+    background-color: red;
+}
+
+/* Modal Content */
+.modal-content {
+    background-color: red;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+}
+
+/* The Close Button */
+.close2 {
+    color: red;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close2:hover,
+.close2:focus {
+    color: red;
+    text-decoration: none;
+    cursor: pointer;
+}

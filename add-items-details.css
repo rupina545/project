@@ -1,0 +1,82 @@
+body{
+	background-color: #1224b3;
+		font-family: "Comic Sans MS", "Comic Sans", cursive;		
+}
+#back-icon{
+	margin-left: 1200px;
+	margin-top: 10px;
+	font-size: 40px;
+	color: white;
+}
+body{
+	font-size: 30px;
+}
+.heading1{
+	color: white;
+}
+#hand-icon{
+	font-size: 40px;
+	color: white;
+}
+.h1{
+	font-size: 25px;
+}
+.t1{
+	color: white;
+	font-size: 25px;
+	margin-left: 100px;
+}
+.t3{
+	color: white;
+	font-size: 25px;
+	margin-left: 155px;
+}
+.t4{
+	color: white;
+	font-size: 25px;
+	margin-left: 130px;
+}
+.t5{
+	color: white;
+	font-size: 25px;
+	margin-left: 150px;
+}
+.t6{
+	color: white;
+	font-size: 25px;
+	margin-left: 65px;
+}
+.t7{
+	color: white;
+	font-size: 25px;
+	margin-left: 10px;
+}
+.t8{
+	color: white;
+	font-size: 25px;
+	margin-left: 170px;
+}
+.input-field2{
+	border: 2px solid black;
+	border-radius: 18px;
+	height: 40px;
+	width: 100px;
+	font-size: 20px;
+	font-weight: bold;
+	outline: none;
+	text-align: center;
+	margin-top: 10px;
+}
+.input-fields{
+	border: 2px solid black;
+	border-radius: 25px;
+	height: 35px;
+	width: 200px;
+	font-size: 20px;
+	font-weight: bold;
+	outline: none;
+	text-align: center;
+}
+.msg{
+	color: white;
+}

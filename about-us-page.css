@@ -1,0 +1,65 @@
+.main
+{
+  background-color: #1224b3;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+
+}
+.h1 {
+
+  display: inline-block;
+  position:center;
+  color: black;
+  font-family: 'Righteous', serif;
+  margin-left: 238px;
+  font-size: 3em; 
+  text-shadow: .03em .03em 0 hsla(230,20%,20%,1);
+  margin-top:38px;
+
+  }
+  *
+  {
+    margin-left: 0px;
+   
+    
+  }
+*{
+  margin:0px;
+  padding:0;
+  box-sizing: border-box;
+}
+.column
+{
+  margin-left: 89px;
+  float:left;
+  width:50%;     
+  margin-top:110px;
+}
+.column1
+{
+  float:right;
+  width:50%;
+  margin-top:-335px;
+  color:white;
+}
+.gf
+{
+  color:red;
+}
+.shape
+{
+  position: fixed;
+   color: white;
+   text-align: center;
+   margin-top:100px;
+   display:inline-flex;
+    position: relative;
+    height: 150px;
+    width: 101%;
+    background-color:;
+    margin-left: 339px;
+    margin-top:62px;
+    font-size:28px;
+  }
+a{
+  color: white
+}

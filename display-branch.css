@@ -1,0 +1,26 @@
+body{
+	background-color: #1224b3;
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+.text-1{
+	font-size: 40px;
+	color: white;
+	text-decoration: underline;
+	text-align: center;
+}
+table{
+	font-size: 30px;
+}
+a{
+	text-decoration: none;
+	color: inherit;
+}
+td{
+	color: white;
+}
+#back-icon{
+	color: white;
+	margin-left: 1200px;
+	margin-top: 10px;
+	font-size: 40px;
+}

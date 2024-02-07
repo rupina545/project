@@ -1,0 +1,58 @@
+body{
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
+	background-color: #1224b3;
+}
+.text1{
+	text-align: center;
+	font-size: 40px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.text2{
+	text-align: center;
+	color: white;
+	font-size: 40px;
+}
+#hand-icon{
+	font-size: 30px;
+}
+th{
+	font-size: 25px;
+	text-align: center;
+}
+table{
+	text-align: center;
+	margin-left: 120px;
+}
+td{
+	font-size: 25px;
+	color: white;
+	text-align: center;
+}
+a{
+	color: inherit;
+	outline: none;
+	text-decoration: none;
+}
+#back-icon{
+	color: white;
+	margin-left: 1200px;
+	margin-top: 10px;
+	font-size: 40px;
+}
+.view-button{
+	width: 80px;
+	height: 40px;
+	background-color: green;
+	font-size: 20px;
+	font-weight: bold;
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+.null-message{
+	text-align: center;
+	font-size: 40px;
+	background-color: white;
+	color: red;
+	margin-top: 150px;
+}
+

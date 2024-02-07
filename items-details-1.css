@@ -1,0 +1,96 @@
+body{
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
+	background-color: #1224b3;
+}
+#back-icon{
+	margin-left: 1200px;
+	margin-top: 10px;
+	font-size: 40px;
+	color: white;
+}
+.input-field2{
+	border: 2px solid black;
+	border-radius: 25px;
+	padding: 5px;
+	font-size: 25px;
+	font-weight: bold;
+	outline: none;
+	text-align: center;
+	text-decoration: none;
+	color: black;
+	background-color: white;
+}
+.input-field3{
+	border: 2px solid black;
+	border-radius: 25px;
+	padding: 5px;
+	font-size: 25px;
+	font-weight: bold;
+	outline: none;
+	text-align: center;
+	text-decoration: none;
+	color: black;
+	margin-left: 10px;
+	background-color: white;
+}
+.heading1{
+	color: white;
+}
+#hand-icon{
+	font-size: 30px;
+	color: white;
+}
+.h1{
+	font-size: 25px;
+}
+.t1{
+	color: white;
+	font-size: 25px;
+	margin-left: 100px;
+}
+.t2{
+	color: white;
+	font-size: 25px;
+	margin-left: 150px;
+}
+.t3{
+	color: white;
+	font-size: 25px;
+	margin-left: 140px;
+}
+.t4{
+	color: white;
+	font-size: 25px;
+	margin-left: 170px;
+}
+.t5{
+	color: white;
+	font-size: 25px;
+	margin-left: 120px;
+}
+.t6{
+	color: white;
+	font-size: 25px;
+	margin-left: 170px;
+}
+.input-field4{
+	border: 2px solid black;
+	border-radius: 30px;
+	padding-top: 10px;
+	padding-right: 12px;
+	padding-left: 12px;
+	padding-bottom: 12px;
+	font-size: 25px;
+	font-weight: bold;
+	outline: none;
+	text-align: center;
+	text-decoration: none;
+	color: black;
+	margin-left: 550px;
+	background-color: white;
+}
+.message_1{
+	font-size: 25px;
+	color: white;
+	text-align: center;
+}
